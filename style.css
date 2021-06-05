@@ -60,9 +60,23 @@ color: #557c3e;
     width: 100%;
     padding: 20px;
   }
-  .menu-map{
-      
+  .content{
+      text-align: center;
   }
+  .footer{
+      background-color: #222;
+      color: #f1f1f1;
+      padding: 15px 10px;
+  }
+  .footer-part{
+      text-align: center;
+  }
+  .delivery-color{
+        color: #557c3e;
+}
+footer{
+    text-align: center;
+}
 
 
 
