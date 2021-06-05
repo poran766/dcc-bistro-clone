@@ -1,0 +1,107 @@
+body{
+    font-family: 'Lora', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-header{
+    background-color: #f6b319;
+}
+.nav-item{
+    list-style-type: none;
+    margin-bottom: 4rem;
+}
+.nav-link{
+    padding: 0 1rem;
+}
+
+.chaina-bistro-header ul li a{
+font-family: 'Lora', serif;
+font-size: 1.5em;
+text-transform: uppercase;
+font-weight: bold;
+text-shadow: 1px 1px 1px #222;
+margin-top: 0;
+margin-bottom: 0;
+line-height: .75;
+}
+.header-name{
+color: #557c3e;
+}
+.nav-item a{
+    align-items: center;
+    color: #951C49;
+}
+.hero{
+    background-color: #4f0202;
+    padding: 25px 10px;
+}
+.jumbotron{
+    border: 2px solid #222;
+    border-radius: 5px;
+    padding: 0;
+    margin-bottom: 35px;
+
+}
+.contain {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .contain img {vertical-align: middle;}
+  
+  .contain .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  .menu-map{
+      
+  }
+
+
+
+
+
+/*
+.banner{
+    background: #4f0202;
+}
+.menu-header{
+    color: cornsilk;
+    text-align: center;
+    padding-top: 35px;
+}
+.menu-describe{
+    text-align: center;
+    color: #f1f1f1;
+    font-size: 15px;
+}
+.menu-photos{
+    padding: 0px 55px;
+    text-align: center;
+    position: relative;
+    max-width: 800px; /* Maximum width */
+    
+/*
+.menu-photos img{
+    height: 79%;
+    width: 100%;
+}
+.transparent h3{
+    text-align: center;
+}
+.menu-photos .transparent{
+    bottom: 0; 
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+   width: 100%;
+}
+*/
+  
