@@ -82,7 +82,7 @@ footer{
 
 
 
-/*
+
 .banner{
     background: #4f0202;
 }
@@ -100,15 +100,18 @@ footer{
     padding: 0px 55px;
     text-align: center;
     position: relative;
-    max-width: 800px; /* Maximum width */
-    
-/*
+    max-width: 800px; 
+}  
+
 .menu-photos img{
     height: 79%;
     width: 100%;
 }
 .transparent h3{
     text-align: center;
+}
+.photo-color{
+    color: #f1f1f1;
 }
 .menu-photos .transparent{
     bottom: 0; 
@@ -117,5 +120,4 @@ footer{
     color: #f1f1f1; 
    width: 100%;
 }
-*/
   
